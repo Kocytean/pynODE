@@ -1,2 +1,2 @@
 # pynODE
-Neural ODEs in python
+Neural ODEs in Python for the heat equation
