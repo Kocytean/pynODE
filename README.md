@@ -1,2 +1,4 @@
 # pynODE
-Neural ODEs in Python for the heat equation
+Single layer neural network ODE approximations in Python for the heat equation
+- Basic fully connected hidden layer
+- Recurrent hidden layer
